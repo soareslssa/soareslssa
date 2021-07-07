@@ -1,5 +1,8 @@
 # Hi, I'm Soares 👋
 
+<img align="right" src="https://github.com/soareslssa/soareslssa/blob/main/images/coder.jpg" width="350"/>
+
+
 About me:
 
 * 💻 I'm developer;
