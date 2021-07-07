@@ -2,9 +2,9 @@
 
 About me:
 
-* 💻 I'm developer
-* ❤️ I love solving problems
+* 💻 I'm developer;
 * 🤓 I'm enthusiastic about everything about coding
+* 🌱 I’m currently learning NodeJS, ReactJS, React Native and Typescript
 * 📫 How to reach me: soareslssa.dev@gmail.com, [linkedin](https://www.linkedin.com/in/lucas-soares-2a8882167)
 * 👽 Fun facts: I'm a musician, artist specializing in painting collectibles and 3d sculptor. 
  You can follow me on [instagram](https://instagram.com/soarescustom) and [artstation](https://www.artstation.com/soareslssa)
